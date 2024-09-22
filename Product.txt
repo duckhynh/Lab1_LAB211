@@ -1,0 +1,4 @@
+P0002,linh,B001,Giant,Taiwan,C001,Mountain Bike,2014,60000.0
+P0001,hoai,B001,Giant,Taiwan,C002,Hybrid Bike,2014,2000.0
+P0003,thanh hoai,B002,Trek,USA,C001,Mountain Bike,2014,50000.0
+P0004,hoai,B002,Trek,USA,C001,Mountain Bike,2014,40000.0
